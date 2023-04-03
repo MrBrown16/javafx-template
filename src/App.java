@@ -1,3 +1,14 @@
+/*
+ * File: App.java
+ * Author: Móra Barna
+ * Copyright: 2023 Móra Barna
+ * Group: Szoft_I_1_N
+ * Date: 2023.04.03
+ * Github: https://github.com/MrBrown16/javafx-template
+ * Licence: GNU GPL
+ */
+
+
 import control.MainControl;
 import javafx.application.Application;
 import javafx.scene.Scene;
